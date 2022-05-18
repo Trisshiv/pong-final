@@ -1,0 +1,42 @@
+.heading {
+    width: 99.9%;
+    line-height: 2;
+    text-align: left;
+}
+
+.heading button {
+    float: right;
+    border-color: white;
+}
+
+#status {
+    border-color: grey;
+    box-shadow: 5px 5px 5px grey;
+    color: white;
+}
+
+ol {
+    text-align: left;
+    color: black;
+    font-size: 17px;
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-weight: bold;
+}
+
+canvas {
+    background-color: white;
+    border-radius: 10px;
+    border-style: dotted;
+}
+
+body {
+    height: 865px;
+}
